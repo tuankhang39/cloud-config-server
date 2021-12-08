@@ -3,6 +3,6 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: https://sub-project-09.herokuapp.com
+      defaultZone: https://sub-project-09.herokuapp.com/eureka
   instance:
     hostname: sub-project-09.herokuapp.com
